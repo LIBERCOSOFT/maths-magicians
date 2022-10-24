@@ -51,7 +51,7 @@ git clone https://github.com/LIBERCOSOFT/maths-magicians.git - for HTTP
 git clone git@github.com:LIBERCOSOFT/maths-magicians.git - for SSH
 ```
 
-- Once the files are on your machine, open the _maths-magicians_ folder in [Visual Studio Code](https://code.visualstudio.com/), and follow the steps in Installation & Set Up
+- Once the files are on your machine, open the _maths-magicians_ folder in your preferred code editor e.g VS Code, Atom, etc. , and follow the steps in Installation & Set Up
 
 ## 🛠 Installation & Set Up
 
