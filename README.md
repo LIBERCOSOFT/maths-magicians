@@ -1,70 +1,115 @@
-# Getting Started with Create React App
+# math-magicians
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![microverse icon](https://img.shields.io/badge/Microverse-blueviolet)
 
-## Available Scripts
+> A Single Page App (SPA) that allows users to Make simple calculations and read a random math-related quote.
 
-In the project directory, you can run:
+<!-- ![screenshot](./sec.png) -->
 
-### `npm start`
+"Math magicians" is a Single Page App (SPA) that allows users to:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Make simple calculations.
+- Read a random math-related quote.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Built With
 
-### `npm test`
+- Major Languages: JavaScript.
+- Libraries: React,
+- Technologies used:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+``` bash
+- create-react-app tool
+- Git version control
+- ESLint code linting
+- StyleLint code linting
+- Prettier code formatting
+- Babel transpiling
+- Webpack bundling
+- netlify deployment
+```
 
-### `npm run build`
+## Live Demo
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<!-- [Live Demo](https://math-magicians-netlify.netlify.app/) -->
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Getting Started
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+To get a local copy up and running, follow the steps in Setup below.
 
-### `npm run eject`
+### Prerequisites
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Basic knowledge of HTML, CSS, JavaScript, and React.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Setup
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+If you installed git you can clone the code to your machine, or download a ZIP of all the files directly.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+[Download the ZIP from this location](https://github.com/LIBERCOSOFT/maths-magicians/archive/refs/heads/development.zip), or run the following [git](https://git-scm.com/downloads) command to clone the files to your machine:
 
-## Learn More
+```bash
+git clone https://github.com/LIBERCOSOFT/maths-magicians.git - for HTTP
+git clone git@github.com:LIBERCOSOFT/maths-magicians.git - for SSH
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Once the files are on your machine, open the _maths-magicians_ folder in [Visual Studio Code](https://code.visualstudio.com/), and follow the steps in Installation & Set Up
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 🛠 Installation & Set Up
 
-### Code Splitting
+1. Install Node Modules
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+   ```sh
+   npm install
+   ```
 
-### Analyzing the Bundle Size
+2. Start the development server
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+   ```sh
+   npm start
+   ```
 
-### Making a Progressive Web App
+3. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## 🚀 Building and Running for Production
 
-### Advanced Configuration
+1. Generate a full static production build
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+   ```sh
+   npm run build
+   ```
 
-### Deployment
+## 🚀 Testing Application
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+1. Test the items Counter and Comments Counter function
 
-### `npm run build` fails to minify
+   ```sh
+   npm test
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Install
+
+The following tools help make easier to work with sample code.
+
+- [git](https://git-scm.com/downloads): A tool for managing source code
+- [Visual Studio Code](https://code.visualstudio.com/): A source code editor
+- [NVM](https://github.com/nvm-sh/nvm): A node package manager
+
+## Author
+
+👤 **Kolapo Precious Akinrinlola**
+
+- GitHub: [@LIBERCOSOFT](https://github.com/LIBERCOSOFT)
+- Twitter: [@Gerfieldt](https://twitter.com/Gerfieldt)
+- LinkedIn: [Kolapo Akinrinlola](https://linkedin.com/in/kolapo-akinrinlola-072097110)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/LIBERCOSOFT/maths-magicians/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
