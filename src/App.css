@@ -31,6 +31,14 @@
   border: 0.1em solid #bababa;
 }
 
+.buttonContainer > div > button:hover {
+  opacity: 0.7;
+}
+
+.buttonContainer > div > button:active {
+  opacity: 0.5;
+}
+
 .buttonContainer > div > button:last-child {
   background-color: #f5913e;
 }
