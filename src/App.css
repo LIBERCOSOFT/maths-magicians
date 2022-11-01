@@ -137,12 +137,34 @@ nav {
   .display {
     font-size: 1.7em;
   }
+
+  .home__container {
+    margin: 1em auto;
+  }
+
+  .quoteContainer h2,
+  .home__container h2 {
+    font-size: 1.5em;
+  }
+
+  .home__container p {
+    font-size: 1.2em;
+  }
+
+  body {
+    background-image: none;
+    background-color: rgba(5, 12, 225);
+  }
+
+  .calculator__container {
+    flex-direction: column;
+  }
 }
 
 @media screen and (max-width: 428px) {
   .buttonContainer > div > button {
     padding: 0.5em;
-    font-size: 1em;
+    font-size: 1.5em;
     font-weight: 600;
   }
 
