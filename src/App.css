@@ -119,7 +119,7 @@ nav {
 /* Calculator */
 .calculator__container {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   padding: 0 5em;
 }
 
