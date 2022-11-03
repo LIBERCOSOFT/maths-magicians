@@ -100,6 +100,11 @@ The following tools help make easier to work with sample code.
 - Twitter: [@Gerfieldt](https://twitter.com/Gerfieldt)
 - LinkedIn: [Kolapo Akinrinlola](https://linkedin.com/in/kolapo-akinrinlola-072097110)
 
+ **Degisew**
+- GitHub: [degisew](https://github.com/degisew)
+- Twitter: [@DJ_etiya](https://twitter.com/Degisew-mengist)
+- LinkedIn: [jegisew21](https://www.linkedin.com/in/degisew-mengist-003298802)
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
