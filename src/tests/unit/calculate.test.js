@@ -67,3 +67,14 @@ test('return the an empty state when AC button is clicked', () => {
   expect(response.next).toBe(null);
   expect(response.operation).toBe(null);
 });
+
+test('return the nagative of numbers', () => {
+  const sampleObj = {
+    total: -4,
+    next: null,
+    operation: null,
+  };
+  const { total, next, operation } = sampleObj;
+  const response = calculate({ total, next, operation }, '+/-');
+  expect(response.total).toBe('4');
+});
