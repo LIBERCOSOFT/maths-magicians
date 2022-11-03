@@ -30,7 +30,7 @@
 
 ## Live Demo
 
-<!-- [Live Demo](https://math-magicians-netlify.netlify.app/) -->
+[Live Demo](https://aesthetic-salmiakki-eb0e63.netlify.app/)
 
 ## Getting Started
 
@@ -93,7 +93,7 @@ The following tools help make easier to work with sample code.
 - [Visual Studio Code](https://code.visualstudio.com/): A source code editor
 - [NVM](https://github.com/nvm-sh/nvm): A node package manager
 
-## Author
+## Authors
 
 👤 **Kolapo Precious Akinrinlola**
 
@@ -101,7 +101,7 @@ The following tools help make easier to work with sample code.
 - Twitter: [@Gerfieldt](https://twitter.com/Gerfieldt)
 - LinkedIn: [Kolapo Akinrinlola](https://linkedin.com/in/kolapo-akinrinlola-072097110)
 
-  **Degisew**
+👤 **Degisew**
 
 - GitHub: [degisew](https://github.com/degisew)
 - Twitter: [@DJ_etiya](https://twitter.com/Degisew-mengist)
